@@ -215,7 +215,7 @@ nav>a:hover::after{
     width: 26vh;
     height: 2.6vh;
     bottom: 14%;
-    left: 29%;
+    left: 28.5%;
     border-radius: 2vh;
 }
 #html::after {
@@ -225,7 +225,7 @@ nav>a:hover::after{
     width: 40vh;
     height: 2.6vh;
     bottom: 14%;
-    left: 29%;
+    left: 28.5%;
     border-radius: 2vh;
 }
 #css::after {
@@ -235,7 +235,7 @@ nav>a:hover::after{
     width: 34vh;
     height: 2.6vh;
     bottom: 14%;
-    left: 29%;
+    left: 28.5%;
     border-radius: 2vh;
 }
 #js::after {
@@ -245,7 +245,7 @@ nav>a:hover::after{
     width: 8vh;
     height: 2.6vh;
     bottom: 14%;
-    left: 29%;
+    left: 28.5%;
     border-radius: 2vh;
 }
 #word::before,#excel::before,#ppt::before{
@@ -255,7 +255,7 @@ nav>a:hover::after{
     width: 50vh;
     height: 3vh;
     bottom: 12%;
-    left: 28%;
+    left: 28.5%;
     border-radius: 2vh;
 }
 #word::after {
@@ -265,7 +265,7 @@ nav>a:hover::after{
     width: 40vh;
     height: 2.6vh;
     bottom: 14%;
-    left: 29%;
+    left: 28.9%;
     border-radius: 2vh;
 }
 #excel::after {
@@ -275,7 +275,7 @@ nav>a:hover::after{
     width: 18vh;
     height: 2.6vh;
     bottom: 14%;
-    left: 29%;
+    left: 28.9%;
     border-radius: 2vh;
 }
 
@@ -286,7 +286,7 @@ nav>a:hover::after{
     width: 10vh;
     height: 2.6vh;
     bottom: 14%;
-    left: 29%;
+    left: 28.9%;
     border-radius: 2vh;
 }
 #community{
